@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function() {
         adress: "Marseille"
     }, {
         firstname: "Jessica",
-        surname: "chéplu",
+        surname: "Guillot",
         adress: "Marseille"
     }];
 
