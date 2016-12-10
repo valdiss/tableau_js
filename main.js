@@ -84,6 +84,7 @@ document.addEventListener("DOMContentLoaded", function() {
           alert('Y\'a plus de lignes à supprimer gros!');
         }
     });
+    $(".table").tablesorter(); 
 });
 
 // - Regarder les createDocumentFragment OK
